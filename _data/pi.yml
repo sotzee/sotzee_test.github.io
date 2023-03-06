@@ -1,0 +1,25 @@
+- name: Ali Taghibakhshi
+  photo: headshot.jpg
+  photo-large: large-image.jpg
+  info: Ph.D. student at University of Illinois at Urbana-Champaign
+  email: alit2@illinois.edu 
+  linkedin: https://www.linkedin.com/in/ali-taghibakhshi-15899973/ 
+  github: https://github.com/JRD971000
+  scholar: https://scholar.google.com/citations?user=yT0J-dEAAAAJ&hl=en
+  cv: cv/Ali_Taghibakhshi_Resume.pdf
+  # Change the number below to the number of "educations" you have (up to 6)
+  number_educ: 3
+  education1: "(Expected 2023) Ph.D. in Mechanical Engineering, University of Illinois at Urbana-Champaign"
+  education2: "(2021) M.Sc. in Mechanical Engineering, University of Illinois at Urbana-Champaign"
+  education3: "(2019) B.S. in Mechanical Engineering, Sharif University of Technology"
+
+  # education3: 
+  # education4: 
+  # education5: 
+  # education6: 
+  education1short: (EXP. 2023) Ph.D. Mech Eng, UIUC
+  education2short: (2021) M.Sc. Mech Eng, UIUC
+  education3short: (2019) B.S. Mech Eng, SUT
+  # education4short: 
+  # education5short: 
+  # education6short: 
